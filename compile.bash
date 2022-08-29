@@ -1,0 +1,1 @@
+javac -Xlint:all -d build/ *.java && java -cp build/ puissance4.Jeu
